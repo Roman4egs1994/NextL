@@ -1,0 +1,17 @@
+# Лог-файлы
+logs
+*.log
+npm-debug.log*
+
+# Директория с зависимостями
+node_modules/
+
+# Директории и файлы среды разработки
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Операционная система
+.DS_Store
+Thumbs.db
